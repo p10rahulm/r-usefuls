@@ -275,6 +275,21 @@ LSMeans
 Comparison
 
 # Regression Validation
+RegTest
+ACD
+
+# Classification Validation
+BinomTools
+DAIM
+
+# Clustering Validation
+ClustEval
+SigClust
+
+# ROC Analysis
+PROC
+TimeROC
+
 
 
 
