@@ -205,6 +205,90 @@ install.packages("testthat")
 install.packages("roxygen2")
 
 
+####################################################################################################
+# MORE ANALYTICS
+####################################################################################################
+
+
+####################
+# PreModeling Stage
+####################
+# Data Visualization
+ggplot2
+googleVis
+
+# Data Transformation
+plyr
+data.table
+
+# Missing Values Imputation
+MissForest
+MissMDA
+
+# Outliers Detection
+Outliers
+EVIR
+
+
+# Feature Selection
+Features
+RRF
+
+
+# Dimension Reduction
+FactoMiner
+CCP
+
+####################
+# Modeling Stage
+####################
+# continuous Regression
+car
+randomforest
+
+# Ordinal Regression
+RMiner
+CoreLearn
+
+# Classfication
+Caret
+BigRF
+
+# Clustering
+CBA
+RankCluster
+
+
+# TimeSeries
+forecast
+LTSA
+
+# survival
+survival
+Basta
+
+####################
+# Post-Modeling Stage
+####################
+# General Model Validation
+LSMeans
+Comparison
+
+# Regression Validation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
