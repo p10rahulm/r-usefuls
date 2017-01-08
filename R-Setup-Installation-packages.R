@@ -303,21 +303,9 @@ check_and_install("timeROC")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+####################################################################################################
+# BELOW NOT NECESSARY BUT GOOD TO HAVE
+####################################################################################################
 
 
 check_and_install("car")
@@ -362,11 +350,7 @@ check_and_install("remotes")
 check_and_install("reshape2")
 check_and_install("RGA")
 check_and_install("rio")
-
-
 check_and_install("RMySQL")
-
-
 check_and_install("roxygen2")
 check_and_install("RSiteCatalyst")
 check_and_install("rvest")
