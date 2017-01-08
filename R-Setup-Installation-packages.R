@@ -214,81 +214,81 @@ install.packages("roxygen2")
 # PreModeling Stage
 ####################
 # Data Visualization
-ggplot2
-googleVis
+install.packages("ggplot2")
+install.packages("googleVis")
 
 # Data Transformation
-plyr
-data.table
+install.packages("plyr")
+install.packages("data.table")
 
 # Missing Values Imputation
-MissForest
-MissMDA
+install.packages("MissForest")
+install.packages("MissMDA")
 
 # Outliers Detection
-Outliers
-EVIR
+install.packages("Outliers")
+install.packages("EVIR")
 
 
 # Feature Selection
-Features
-RRF
+install.packages("Features")
+install.packages("RRF")
 
 
 # Dimension Reduction
-FactoMiner
-CCP
+install.packages("FactoMiner")
+install.packages("CCP")
 
 ####################
 # Modeling Stage
 ####################
 # continuous Regression
-car
-randomforest
+install.packages("car")
+install.packages("randomforest")
 
 # Ordinal Regression
-RMiner
-CoreLearn
+install.packages("RMiner")
+install.packages("CoreLearn")
 
 # Classfication
-Caret
-BigRF
+install.packages("Caret")
+install.packages("BigRF")
 
 # Clustering
-CBA
-RankCluster
+install.packages("CBA")
+install.packages("RankCluster")
 
 
 # TimeSeries
-forecast
-LTSA
+install.packages("forecast")
+install.packages("LTSA")
 
 # survival
-survival
-Basta
+install.packages("survival")
+install.packages("Basta")
 
 ####################
 # Post-Modeling Stage
 ####################
 # General Model Validation
-LSMeans
-Comparison
+install.packages("LSMeans")
+install.packages("Comparison")
 
 # Regression Validation
-RegTest
-ACD
+install.packages("RegTest")
+install.packages("ACD")
 
 # Classification Validation
-BinomTools
-DAIM
+install.packages("BinomTools")
+install.packages("DAIM")
 
 # Clustering Validation
-ClustEval
-SigClust
+install.packages("ClustEval")
+install.packages("SigClust")
 
 # ROC Analysis
-PROC
-TimeROC
+install.packages("PROC")
+install.packages("TimeROC")
 
 
 
