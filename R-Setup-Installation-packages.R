@@ -35,7 +35,7 @@ check_and_install("foreign")
 check_and_install("dplyr")
 
 # tidyr - Tools for changing the layout of your data sets. Use the gather and spread functions to convert your data into the tidy format, the layout R likes best.
-check_and_install("dplyr")
+check_and_install("tidyr")
 
 # stringr - Easy to learn tools for regular expressions and character strings.
 check_and_install("stringr")
